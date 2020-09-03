@@ -34,7 +34,7 @@ export default function Landing() {
                     <p style={{color:"white"}}>
                         Kamal is a fullstack web developer who has worked with Mongoose , Sequelize and React. He enjoys coding, skating and reading manga.
                     </p>
-                    <Button variant="contained" size="large" color="secondary" className={classes.margin}>
+                    <Button href="/projects" variant="contained" size="large" color="secondary" className={classes.margin}>
                         View Projects
                     </Button>
                 </Typography>
